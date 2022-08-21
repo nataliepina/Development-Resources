@@ -25,7 +25,7 @@ A collection of free dev resources.
 - [Coolors](https://coolors.co/)
 - [Adobe Color](https://color.adobe.com/create/color-wheel)
 
-## UI/UX
+### UI/UX
 - [UI Patterns](https://ui-patterns.com/patterns )
 - [Nielson Norman Group - UX Guidance](https://www.nngroup.com/)
 - [Laws of UX](https://lawsofux.com/en/)
