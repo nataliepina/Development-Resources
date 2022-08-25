@@ -30,5 +30,5 @@ A collection of free dev resources.
 - [Nielson Norman Group - UX Guidance](https://www.nngroup.com/)
 - [Laws of UX](https://lawsofux.com/en/)
 
-## Design
+### Design Inspiration
 - [Dribbble](https://dribbble.com)
