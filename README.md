@@ -13,6 +13,10 @@ A collection of free dev resources.
 
 ### Icons
 - [React Icons](https://react-icons.github.io/react-icons/)
+- [Styled Icons](https://openbase.com/js/styled-icons)
+- [Material Icons](https://mui.com/material-ui/material-icons/)
+- [Unicons](https://iconscout.com/unicons)
+- [Font Awesome](https://fontawesome.com/icons)
 
 ### Images
 - [UnSplash](https://unsplash.com/)
