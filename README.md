@@ -1,5 +1,5 @@
 # Development Resources
-A collection of free dev resources.
+A collection of helpful and free dev resources.
 
 
 ### Accessibility
