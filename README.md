@@ -17,17 +17,21 @@ A collection of helpful and free dev resources.
 - [Material Icons](https://mui.com/material-ui/material-icons/)
 - [Unicons](https://iconscout.com/unicons)
 - [Font Awesome](https://fontawesome.com/icons)
+- [SVG Repo](https://www.svgrepo.com)
 
 ### Images
 - [UnSplash](https://unsplash.com/)
 - [SVGOMG](https://jakearchibald.github.io/svgomg/)
 - [unDraw](https://undraw.co/illustrations)
 - [Cool Backgrounds](https://coolbackgrounds.io/)
+- [Lorem Picsum](https://picsum.photos)
+- [Pixabay](https://pixabay.com)
 
 ### Colors and Color Palettes
 - [Leonardo](https://leonardocolor.io/#)
 - [Coolors](https://coolors.co/)
 - [Adobe Color](https://color.adobe.com/create/color-wheel)
+- [Coolors](https://coolors.co)
 
 ### UI/UX
 - [UI Patterns](https://ui-patterns.com/patterns )
@@ -36,3 +40,5 @@ A collection of helpful and free dev resources.
 
 ### Design Inspiration
 - [Dribbble](https://dribbble.com)
+- [Behance](https://www.behance.net)
+- [Web Design Inspiration](https://www.webdesign-inspiration.com)
