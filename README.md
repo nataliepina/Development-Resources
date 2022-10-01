@@ -10,6 +10,8 @@ A collection of helpful and free dev resources.
 - [Google Fonts](https://fonts.google.com/)
 - [Type Scale](https://type-scale.com/)
 - [Fontjoy](https://fontjoy.com/)
+- [Dafont](https://www.dafont.com/)
+- [Fontsquirrel](https://www.fontsquirrel.com/)
 
 ### Icons
 - [React Icons](https://react-icons.github.io/react-icons/)
