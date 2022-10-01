@@ -46,3 +46,5 @@ A collection of helpful and free dev resources.
 ### Design Inspiration
 
 - [Dribbble](https://dribbble.com)
+- [SiteInspire](https://www.siteinspire.com)
+- [WebDesign Inspiration](https://www.webdesign-inspiration.com)
