@@ -49,7 +49,7 @@ A collection of helpful and free dev resources.
 - [SiteInspire](https://www.siteinspire.com)
 - [WebDesign Inspiration](https://www.webdesign-inspiration.com)
 
-### Web devlopment resources
+### Learning Resources
 - [Scrimba](https://scrimba.com)
 - [Edyoda](https://www.edyoda.com/)
 - [Udemy](https://www.udemy.com/)
