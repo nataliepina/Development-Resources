@@ -48,3 +48,8 @@ A collection of helpful and free dev resources.
 - [Dribbble](https://dribbble.com)
 - [SiteInspire](https://www.siteinspire.com)
 - [WebDesign Inspiration](https://www.webdesign-inspiration.com)
+
+### Learning Resources
+- [Scrimba](https://scrimba.com)
+- [Udemy](https://www.udemy.com/)
+- [MDN web docs](https://developer.mozilla.org/en-US/)
