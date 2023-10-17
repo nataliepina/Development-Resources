@@ -51,6 +51,5 @@ A collection of helpful and free dev resources.
 
 ### Learning Resources
 - [Scrimba](https://scrimba.com)
-- [Edyoda](https://www.edyoda.com/)
 - [Udemy](https://www.udemy.com/)
 - [MDN web docs](https://developer.mozilla.org/en-US/)
